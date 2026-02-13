@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 120000, 120001
 ## X-Min-Interface: 110200
 ## Title: HandyNotes: Achievements
 ## Notes: Shows location of incomplete achievements
@@ -71,3 +71,4 @@ Locale/zhCN.lua
 Locale/zhTW.lua
 
 HandyNotes_Achievements.lua
+
